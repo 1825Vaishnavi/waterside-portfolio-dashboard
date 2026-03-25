@@ -2,7 +2,7 @@
 
 A full-stack analytics dashboard built in ## Next.js + Tailwind CSS + Recharts showing revenue analysis, seasonal trends, tech maturity scores and co-op project recommendations across all 20+ Waterside Group businesses.
 
-> Built specifically for Waterside Group by Vaishnavi Gajarla — Northeastern University
+> Built specifically for Waterside Group by Vaishnavi Gajarla - Northeastern University
 
 ---
 
@@ -14,12 +14,12 @@ A full-stack analytics dashboard built in ## Next.js + Tailwind CSS + Recharts s
 
 ## Features
 
-- ## Portfolio Overview — Revenue by category, business mix pie chart, geographic distribution across Cape Cod, Boston, NH and Florida
-- ## Revenue Analysis — Top 10 businesses by revenue, fastest growing businesses
-- ## Tech Opportunities — AI-powered recommendations for where technology would have the biggest impact
-- ## Seasonal Trends — Summer vs Winter vs Year-Round revenue patterns
-- ## Business Directory — Filterable, sortable directory of all 20+ businesses
-- ## Co-op Project Plan — 6 specific projects I'd build during the Fall 2026 co-op with revenue impact estimates and 6-month timeline
+- ## Portfolio Overview - Revenue by category, business mix pie chart, geographic distribution across Cape Cod, Boston, NH and Florida
+- ## Revenue Analysis - Top 10 businesses by revenue, fastest growing businesses
+- ## Tech Opportunities - AI-powered recommendations for where technology would have the biggest impact
+- ## Seasonal Trends - Summer vs Winter vs Year-Round revenue patterns
+- ## Business Directory - Filterable, sortable directory of all 20+ businesses
+- ## Co-op Project Plan - 6 specific projects I'd build during the Fall 2026 co-op with revenue impact estimates and 6-month timeline
 
 ---
 
@@ -43,10 +43,10 @@ A full-stack analytics dashboard built in ## Next.js + Tailwind CSS + Recharts s
 
 ## Tech Stack
 
-- ## Framework — Next.js 16
-- ## Styling — Tailwind CSS
-- ## Charts — Recharts
-- ## Language — JavaScript
+- ## Framework - Next.js 16
+- ## Styling - Tailwind CSS
+- ## Charts - Recharts
+- ## Language - JavaScript
 
 ---
 
