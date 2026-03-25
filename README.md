@@ -4,13 +4,6 @@ A full-stack analytics dashboard built in ## Next.js + Tailwind CSS + Recharts s
 
 > Built specifically for Waterside Group by Vaishnavi Gajarla - Northeastern University
 
----
-
-## Live Preview
-
-![Dashboard Preview](preview.png)
-
----
 
 ## Features
 
