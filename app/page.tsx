@@ -50,7 +50,13 @@ const PROJECTS = [
 ]
 
 // ── KPI Card ─────────────────────────────────────────────
-function KPICard({ value, label, color }) {
+type KPICardProps = {
+  value: string | number
+  label: string
+  color: string
+}
+
+function KPICard({ value, label, color }: KPICardProps){
   return (
     <div className="bg-white rounded-xl shadow p-5 text-center border-t-4" style={{ borderColor: color }}>
       <div className="text-3xl font-bold" style={{ color }}>{value}</div>
